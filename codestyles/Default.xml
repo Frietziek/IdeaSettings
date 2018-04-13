@@ -1,0 +1,16 @@
+<code_scheme name="Default">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="SparkConversions._" />
+        <option value="com.despegar.aftersales.elent.controller.SparkConversions._" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
