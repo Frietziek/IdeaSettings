@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="fgdfs" type="PLAIN_TEXT" />
       <mapping pattern="contingency-service" type="PLAIN_TEXT" />
+      <mapping pattern="dfsdas" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
